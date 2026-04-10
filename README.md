@@ -7,9 +7,8 @@ O sistema ajuda pequenos negócios a evitar perdas, controlar entradas e saídas
 ## 🚀 Stack Tecnológica
 - Node.js
 - Express ou NestJS
-- React (ou outro front)
-- PostgreSQL ou MySQL
-- Docker (opcional)
+- React
+- PostgreSQL
 
 ## 📂 Documentação
 A documentação do projeto está disponível na pasta `/docs`:
